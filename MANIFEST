@@ -1,0 +1,8 @@
+COPYING.txt
+INSTALL.txt
+IMLogConvert/__init__.py
+IMLogConvert/Conversation.py
+IMLogConvert/PidginReader.py
+IMLogConvert/AdiumReader.py
+IMLogConvert/PidginWriter.py
+setup.py
